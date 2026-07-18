@@ -24,14 +24,14 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/mao2116/mmail
+git clone https://github.com/Mari0FErnadez503/Mailgenerator
 
 ```
 
 ### One Click Installation :
 
 ```
-apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/mao2116/mmail
+apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/Mari0FErnadez503/Mailgenerator
 
 ```
 
@@ -41,9 +41,9 @@ apt update -y ; apt install python -y ; apt install git -y ; pip install request
 ### FOR RUN :
 
 ```
-cd mmail
+cd Mailgenerator
 
-python mmail.py
+python Mailgenerator.py
 
 ```
 
