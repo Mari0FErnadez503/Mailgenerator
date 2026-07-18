@@ -1,7 +1,7 @@
-from .user_agents import *
+from .core.headers import *
 import random,time
 ug = random.choice(user_agent)
-
+from core.headers import *
 header={
 "Host": "api.internal.temp-mail.io",
 "Connection": "keep-alive",
